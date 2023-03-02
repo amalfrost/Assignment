@@ -1,0 +1,11 @@
+.home{
+ height: max-content;
+ width: 80%;
+ margin: auto;   
+}
+.courses{
+    height: max-content;
+    width: 80%;
+    margin: auto;   
+    background-color: aquamarine;
+}
