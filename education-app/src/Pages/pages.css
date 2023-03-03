@@ -3,9 +3,22 @@
  width: 80%;
  margin: auto;   
 }
+.home-items{
+    /* width: 88%; */
+    height: max-content;
+    width: 100%;
+    margin: auto;  
+}
 .courses{
     height: max-content;
     width: 80%;
     margin: auto;   
-    background-color: aquamarine;
+    /* background-color: aquamarine; */
+}
+.discussion{
+    height: max-content;
+    width: 88%;
+    margin: auto;   
+    text-align: center;
+
 }
